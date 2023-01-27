@@ -19,7 +19,7 @@ And then use your mouse and kyeboard to control the camera according to the help
 
 First are my photographs, then rendering pictures.
 
-![img](assets\windmill.jpg)
+<img src="assets/windmill.jpg" alt="img" style="zoom:50%;" />
 
 ![img](assets\sea.jpg)
 
