@@ -21,12 +21,12 @@ First are my photographs, then rendering pictures.
 
 <img src="assets/windmill.jpg" alt="img" style="zoom:50%;" />
 
-![img](assets\sea.jpg)
+<img src="assets/sea.jpg" alt="img" style="zoom:50%;" />
 
-![img](assets\scene1.png)
+<img src="assets/scene1.png" alt="img" style="zoom:50%;" />
 
-![img](assets\scene2.png)
+<img src="assets/scene2.png" alt="img" style="zoom:50%;" />
 
-![img](assets\scene3.png)
+<img src="assets/scene3.png" alt="img" style="zoom:50%;" />
 
-![img](assets\scene4.png)
+<img src="assets/scene4.png" alt="img" style="zoom:50%;" />
